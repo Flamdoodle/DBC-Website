@@ -29,7 +29,7 @@ h2{
 
 .btn {
 	color: #FAF3BC;
-	background: #4FB69F url('img/texture.png') no-repeat right top;
+	background: #4FB69F;
 	padding: 2.01342282% 4.02684564%; /* 15px 30px */
 	margin: 5.36912752% 0px; /* 40px */
 	border-radius: 25px;
@@ -73,6 +73,10 @@ ul.nav li a {
 	padding: 1% 0px; /* 10px 0px */
 	margin: 1.5% 0px; /* 15px 0px */
 	text-align: center;
+}
+
+#my-pic img {
+	border: 8px solid #FAF3BC
 }
 
 /* media queries */
