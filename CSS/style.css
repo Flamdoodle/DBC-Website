@@ -31,7 +31,7 @@ h2{
 	color: #FAFBFC;
 	background: #ABCDEF;
 	padding: 2.01342282% 4.02684564%; /* 15px 30px */
-	margin: 5.36912752% 0px; /* 40px */
+	margin: 300px 0px;
 	border-radius: 25px;
 	text-transform: uppercase;
 }
@@ -48,7 +48,7 @@ ul.nav {
 
 ul.nav li {
 	float: left;
-	margin-right: 40px; /* 40px */
+	margin-right: 40px;
 }
 
 ul.nav li a {
