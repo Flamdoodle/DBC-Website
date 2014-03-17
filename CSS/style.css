@@ -1,9 +1,9 @@
 /* global */
 
 body {
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Audiowide', sans-serif;
 	color: #FAF3BC;
-	background: #420600 url('img/bg-texture.jpg') repeat;
+	background: #0000FF;
 }
 
 a {
@@ -28,8 +28,8 @@ h2{
 }
 
 .btn {
-	color: #FAF3BC;
-	background: #4FB69F;
+	color: #FAFBFC;
+	background: #ABCDEF;
 	padding: 2.01342282% 4.02684564%; /* 15px 30px */
 	margin: 5.36912752% 0px; /* 40px */
 	border-radius: 25px;
@@ -37,7 +37,7 @@ h2{
 }
 
 .btn:hover {
-	background-color: #4CC4A7;
+	background-color: #FA000A;
 }
 
 ul.nav {
@@ -61,7 +61,6 @@ ul.nav li a {
 
 #new-cupcakes img {
 	border: 8px solid #FAF3BC;
-	margin: 0 0 4.9382716% 0; /* 0 0 20px 0 */
 }
 
 #featured-cupcake img {
